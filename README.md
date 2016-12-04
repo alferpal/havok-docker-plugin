@@ -1,5 +1,5 @@
 # havok-docker-plugin
-Docker plugin proof of concept
+Docker authz plugin proof of concept
 
 ##What you'll need to test this:
 
