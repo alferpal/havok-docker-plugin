@@ -42,7 +42,6 @@ server.route({
     method: 'POST',
     path: '/AuthZPlugin.AuthZRes',
     handler: function (request, reply) {
-      console.dir(request.payload, {colors:true})
       return reply(isAllowed())
     }
 })
