@@ -1,7 +1,7 @@
 # havok-docker-plugin
 Docker authz plugin proof of concept
 
-##What you'll need to test this:
+### What you'll need to test this:
 
 - Install nodejs ( at least node 4.x LTS, I did it with 6.9 LTS so better be sure with that https://github.com/nodesource/distributions
 
@@ -18,7 +18,7 @@ Docker authz plugin proof of concept
 - Have fun with it only letting you use stuff on even minutes 
 
 
-##To remove it:
+### To remove it:
 
 - Remove what you added to docker.service
 
